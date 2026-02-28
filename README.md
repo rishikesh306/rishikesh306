@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rishikesh</h1>
+<h1 align="center">Hi 👋, I'm RISHIKESH S</h1>
 <h3 align="center">Aspiring Product Manager | AI & Data Science Student</h3>
 
 ---
@@ -45,5 +45,5 @@ To become a **Product Manager** who builds impactful digital products that solve
 
 ## 📫 Connect With Me
 
-📧 rishikesh306@gmail.com  
-🌐 Coimbatore, India
+📧 rishikesh1815@gmail.com  
+🌐 Coimbatore, Tamil Nadu, India
