@@ -39,7 +39,7 @@ GitHub • VS Code • MySQL • Jupyter Notebook
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-red?style=for-the-badge)
 
 ### 🧠 Tools
-![Power BI ](https://img.shields.io/badge/Power-BI-purple?style=for-the-badge)
+![Power BI ](https://img.shields.io/badge/PowerBI-purple?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge)
 
 ---
