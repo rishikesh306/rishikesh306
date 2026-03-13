@@ -9,7 +9,8 @@
 💡 Passionate about **Product Management & Building Real-World Digital Products**  
 📊 Strong foundation in **Machine Learning, Data Analysis, and Software Development**  
 🧠 Skilled in **Product Thinking, User Research, PRD Writing, and Data-Driven Decisions**  
-⚡ Love turning ideas into MVPs and solving real user problems  
+⚡ Love turning ideas into MVPs and solving real user problems     
+🎮 Recently completed a **Game Telemetry Analytics Dashboard for LILA BLACK as part of a Product Analytics assignment provided by LILA Games during the APM interview process.**
 
 ---
 
@@ -46,8 +47,12 @@ GitHub • VS Code • MySQL • Jupyter Notebook
 
 ## 📌 Featured Work
 
+🔹 🎮 Recently completed a **Game Telemetry Analytics Dashboard for LILA BLACK as part of a Product Analytics assignment provided by LILA Games during the APM interview process.**
+
 🔹 Product Case Studies & MVP Projects available in my repositories  
+
 🔹 Machine Learning models & real-world problem solutions  
+
 🔹 End-to-end product development projects  
 
 ---
@@ -55,6 +60,13 @@ GitHub • VS Code • MySQL • Jupyter Notebook
 ## 📌 Featured Projects
 
 ### 🚀 Product Management
+
+ 🔹 **LILA BLACK – Player Telemetry Analytics Dashboard (Assignment Project)**  
+  https://github.com/rishikesh306/LILA-_Black_Telemetry_dashboard
+  
+ This project was completed as part of a **Product Analytics assignment provided by LILA Games during the APM interview process**.
+ 
+ The goal was to analyze gameplay telemetry data and build an interactive tool that allows exploration of player behavior across matches, maps, and timelines.
 
 🔹 **Contact Manager MVP**  
 https://github.com/rishikesh306/contact-manager-mvp  
